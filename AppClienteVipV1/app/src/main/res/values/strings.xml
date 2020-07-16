@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Cliente Vip - 2020</string>
+    <string name="txt_titulo">Aplicativo do Paulo</string>
+    <string name="txtDataAtual">03/01/2020</string>
+    <string name="txtHoraAtual">22:20:30</string>
+    <string name="btnCadastro">Cadastrar</string>
+    <string name="btnVoltar">VOLTAR</string>
+
+   <!--Tela de login -->
+    <string name="txtAppName">App Cliente Vip - V1</string>
+    <string name="txtLogin">Login</string>
+    <string name="chkLembrar">Lembrar</string>
+    <string name="txtRecuperarSenha">Recuperar sua Senha</string>
+    <string name="btnAcessar">ACESSAR</string>
+    <string name="btnSejaVip">SEJA VIP</string>
+    <string name="txtVersaoApp">Versao do aplicativo: V1.12020 - 2020</string>
+
+
+
+    <!--Formulario de cadastro de usuarios -->
+    <string name="txtCadastro">Cadastro</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtHintNome">Digite seu primeiro nome...</string>
+    <string name="txtEmail">E-Mail</string>
+    <string name="txtHintEmail">Digite seu melhor E-mail...</string>
+    <string name="txtSenha">Senha</string>
+    <string name="txtHintSenha">Digite sua senha....</string>
+
+
+    <string name="txtTermo">Li e concordo com os termos de uso e politica de privacidade.</string>
+
+
+
+
+
+    <string name="txtLerPolitica">Ler política de privacidade</string>  <string name="txtAppSplash">App - Cliente Vip - V1</string>
+    <string name="txtHintSenhaB">txtHintSenhaB</string>
+    <string name="txtSenhaB">txtSenhaB</string>
+
+
+    txtEmail
+</resources>
